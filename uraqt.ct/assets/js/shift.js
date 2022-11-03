@@ -1,0 +1,1 @@
+No Content: https://www.arlenmccluskey.com/assets/js/shift.js
